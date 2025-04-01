@@ -4,24 +4,24 @@ A simple and efficient currency converter built using React + Vite with the FXRa
 
 
 ## Features
-Fetches live exchange rates using FXRates API
+i. Fetches live exchange rates using FXRates API
 
-Swap currency functionality for easy conversions
+ii. Swap currency functionality for easy conversions
 
-Custom hooks for API calls and state management
+iii .Custom hooks for API calls and state management
 
-Efficient state handling for a smooth user experience
+vi. Efficient state handling for a smooth user experience
 
-Clean and responsive UI
+v .Clean and responsive UI
 
 
-##Tech Stack
-React + Vite
+## Tech Stack
+i. React + Vite
 
-JavaScript (ES6+)
+ii. JavaScript (ES6+)
 
-FXRates API
+iii. FXRates API
 
-Custom Hooks
+vi. Custom Hooks
 
-Tailwind CSS (for styling)
+v. Tailwind CSS (for styling)
